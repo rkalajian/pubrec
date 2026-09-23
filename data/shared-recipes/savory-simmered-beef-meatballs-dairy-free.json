@@ -31,6 +31,16 @@
     "Simmer in sauce: Pour the homemade sauce over the seared meatballs, or gently nestle them into a wide pot of simmering sauce. Bring the sauce to a gentle bubble, reduce the heat to low, cover, and simmer for 15 to 20 minutes. Stir occasionally until the meatballs are cooked through and tender.",
     "Rest: Remove from heat and let the meatballs rest in the sauce for 5 minutes before serving."
   ],
+  "nutrition": {
+    "calories": "172 kcal",
+    "protein": "24g",
+    "fat": "4.5g",
+    "carbohydrates": "5.5g",
+    "fiber": "0.5g",
+    "sugar": "0.5g",
+    "sodium": "455mg"
+  },
+  "notes": "Serving size is 4 meatballs",
   "createdAt": "2026-09-23T00:00:00.000Z",
-  "updatedAt": "2026-09-23T13:17:11.585Z"
+  "updatedAt": "2026-09-23T13:18:26.273Z"
 }
