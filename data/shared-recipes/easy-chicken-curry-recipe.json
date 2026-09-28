@@ -2,8 +2,11 @@
   "slug": "easy-chicken-curry-recipe",
   "title": "Easy Chicken Curry Recipe",
   "sourceUrl": "https://easychickenrecipes.com/easy-chicken-curry-recipe/?gad_source=1&gad_campaignid=23615811305&gclid=CjwKCAjw1bvTBhBbEiwAzbP8L9K6caGsoCDZtLPoWBU-V6n6onFCkSVQs9wqXNzJidsxomrMBUaBrhoCgnsQAvD_BwE#recipe",
-  "image": "https://easychickenrecipes.com/wp-content/uploads/2023/10/chicken-curry-3-edited.jpg",
-  "tags": [],
+  "image": "/api/images/public/rkalajian/pubrec/b126861bad25c15a7a5fd0f518e6b1e2a7fce093dda13c223e2d7d2df8478ff3.jpg",
+  "tags": [
+    "dinner",
+    "chicken"
+  ],
   "public": true,
   "servings": "4",
   "prepTime": "15m",
@@ -47,5 +50,5 @@
     "sodium": "214 mg"
   },
   "createdAt": "2026-08-02T12:10:10.552Z",
-  "updatedAt": "2026-08-10T18:52:07.365Z"
+  "updatedAt": "2026-09-28T18:20:22.399Z"
 }
