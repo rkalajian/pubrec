@@ -1,0 +1,38 @@
+{
+  "slug": "chocolate-chia-pudding",
+  "title": "Chocolate Chia Pudding",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAljfQjqIrBClr-W71S-ueS0yWYcuzg_UcDcZdsFOKrYazb0odwBoPUZR2&s=10",
+  "tags": [
+    "breakfast",
+    "dessert",
+    "dairy-free"
+  ],
+  "public": true,
+  "servings": "1",
+  "prepTime": "10 minutes, plus 5–10 minutes rest",
+  "cookTime": "At least 2 hours chill",
+  "ingredients": [
+    "2 tbsp (approx. 24g) chia seeds",
+    "1/2 cup (120 ml) unsweetened oat milk",
+    "1 tbsp (approx. 5g) unsweetened cocoa powder or chocolate powder",
+    "1 tbsp (15 ml) maple syrup or honey",
+    "1/4 tsp vanilla extract",
+    "Pinch of fine salt"
+  ],
+  "instructions": [
+    "Whisk cocoa and oat milk: In a glass jar or small bowl, whisk the cocoa powder with a splash of oat milk until a smooth chocolate paste forms. Stir in the remaining oat milk, maple syrup or honey, vanilla extract, and salt. Mixing the cocoa into a paste first prevents clumps.",
+    "Add chia seeds and rest: Whisk in the chia seeds vigorously for 1 minute. Let sit for 5–10 minutes, then whisk again to break up any settled seeds and distribute them evenly.",
+    "Chill to set: Cover tightly and refrigerate for at least 2 hours, ideally overnight, until thickened and completely set."
+  ],
+  "nutrition": {
+    "calories": "235",
+    "protein": "6",
+    "fat": "8.5",
+    "carbohydrates": "33",
+    "fiber": "11",
+    "sugar": "13"
+  },
+  "notes": "Estimated nutrition per serving using standard unsweetened cocoa powder, 2 tbsp chia seeds, unsweetened oat milk, and 1 tbsp pure maple syrup: 1.2g saturated fat, 12g added sugar, 22g net carbohydrates, calcium ~20% DV, and iron ~18% DV. Omitting the maple syrup reduces total carbohydrates to 20g, sugars to 1g, and calories to ~180 kcal. Honey or chocolate powder may change these estimates.",
+  "createdAt": "2026-09-28T14:18:23.000Z",
+  "updatedAt": "2026-09-28T14:29:47.100Z"
+}
