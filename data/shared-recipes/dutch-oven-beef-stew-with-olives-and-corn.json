@@ -4,8 +4,7 @@
   "image": "/api/images/public/rkalajian/pubrec/0e7e62f6700ae4e64c30f7f6c0ed266b5c81a03208f454df4ecf14a98588af33.jpg",
   "tags": [
     "beef",
-    "dinner",
-    "stew"
+    "dinner"
   ],
   "public": true,
   "servings": "6",
@@ -47,5 +46,5 @@
   },
   "notes": "Serving size is about 1.5 cups (1 of 6 servings)",
   "createdAt": "2026-10-02T00:00:00.000Z",
-  "updatedAt": "2026-10-02T13:54:42.229Z"
+  "updatedAt": "2026-10-02T13:54:58.409Z"
 }
