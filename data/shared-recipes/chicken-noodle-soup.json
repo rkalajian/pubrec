@@ -1,0 +1,49 @@
+{
+  "slug": "chicken-noodle-soup",
+  "title": "Chicken Noodle Soup",
+  "image": "/api/images/public/rkalajian/pubrec/f9e24c58f802b9f0e309fc21528554010a13184c4a3721ab7f9e271482cb8e31.jpg",
+  "tags": [
+    "dinner",
+    "chicken",
+    "dairy-free"
+  ],
+  "public": true,
+  "servings": "6",
+  "prepTime": "15m",
+  "cookTime": "35m",
+  "ingredients": [
+    "2 tbsp olive oil or plant butter",
+    "1 medium yellow onion, diced",
+    "3 medium carrots, sliced into thin rounds",
+    "3 stalks celery, sliced",
+    "3 cloves garlic, minced",
+    "1.5 lbs bone-in, skinless chicken thighs (or boneless breasts)",
+    "6 cups low-sodium chicken broth",
+    "2 cups water",
+    "1 tsp dried thyme (or 3 sprigs fresh)",
+    "1 bay leaf",
+    "6 oz wide egg noodles",
+    "1 tbsp fresh lemon juice (vital for brightness)",
+    "1/4 cup fresh parsley, chopped",
+    "Salt and freshly ground black pepper, to taste"
+  ],
+  "instructions": [
+    "Sauté the aromatic base: Heat 2 tablespoons of olive oil or plant butter in a large Dutch oven or heavy pot over medium heat. Add the diced onion, carrots, and celery. Cook for 5–7 minutes until the vegetables begin to soften. Stir in the garlic and cook for another 1 minute until fragrant.",
+    "Build the broth and simmer chicken: Pour in the chicken broth and water. Add the thyme, bay leaf, 1 teaspoon of salt, and 1/2 teaspoon of black pepper. Submerge the chicken thighs into the liquid. Bring to a boil, then reduce heat to low, cover with a lid, and simmer gently for 20 minutes (until the chicken reaches an internal temperature of 165°F).",
+    "Shred the chicken: Transfer the chicken to a cutting board using tongs. Discard the bay leaf. Using two forks, shred the chicken meat and discard any bones. Set the shredded chicken aside.",
+    "Cook the noodles: Bring the pot back to a rolling boil over medium-high heat. Add the egg noodles and cook uncovered for 6–8 minutes, or according to package instructions, until al dente.",
+    "Finish and season: Reduce heat to low. Stir the shredded chicken back into the pot alongside the lemon juice and fresh parsley. Taste the broth and adjust with additional salt and pepper as needed. Remove from heat and serve warm."
+  ],
+  "nutrition": {
+    "calories": "340 kcal",
+    "protein": "30g",
+    "fat": "10g",
+    "carbohydrates": "32g",
+    "fiber": "2g",
+    "sugar": "3g",
+    "sodium": "680mg"
+  },
+  "notes": "Noodle storage: for leftovers, cook the noodles separately and store them in a different container; noodles left in hot broth absorb liquid and turn mushy overnight. Lemon juice added at the very end cuts through the richness and lifts the vegetable flavors. Serving = 1 bowl (~1.5 cups); nutrition is an estimate per serving.",
+  "createdAt": "2026-10-04T00:00:00.000Z",
+  "updatedAt": "2026-10-04T18:45:20.129Z"
+}
