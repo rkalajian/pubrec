@@ -4,8 +4,7 @@
   "image": "/api/images/public/rkalajian/pubrec/7ad3881ec293aad2fb708bbf784a37a046c6a7804ed9f41e3461dc801a6e7953.webp",
   "tags": [
     "dinner",
-    "fish",
-    "cod"
+    "fish"
   ],
   "public": true,
   "servings": "6",
@@ -48,5 +47,5 @@
   },
   "notes": "Makes 12 patties. Serving = 2 fish cakes + 2 tbsp tarragon mayo (6 servings). Estimated nutrition per serving; includes 16g monounsaturated fat. Mayonnaise amount was not specified in the source. Chill patties at least 1 hour before broiling.",
   "createdAt": "2026-10-04T00:00:00.000Z",
-  "updatedAt": "2026-10-04T18:34:01.161Z"
+  "updatedAt": "2026-10-04T18:35:30.601Z"
 }
