@@ -1,0 +1,52 @@
+{
+  "slug": "cod-fish-cakes",
+  "title": "Cod Fish Cakes",
+  "image": "/api/images/public/rkalajian/pubrec/7ad3881ec293aad2fb708bbf784a37a046c6a7804ed9f41e3461dc801a6e7953.webp",
+  "tags": [
+    "dinner",
+    "fish",
+    "cod"
+  ],
+  "public": true,
+  "servings": "6",
+  "ingredients": [
+    "1.5 lbs cod fillet (or other white fish)",
+    "3 russet potatoes, peeled and cut into 2-inch chunks",
+    "2 1/4 tsp table salt (divided: 1 1/2 tsp for potato water, 3/4 tsp for poaching fish)",
+    "1 to 2 bay leaves",
+    "3/4 medium yellow onion, sliced into 1/4-inch slices",
+    "1/2 tsp dried thyme",
+    "3 large eggs",
+    "1/4 tsp black pepper",
+    "Finely grated zest and juice of 1.5 lemons",
+    "2 tbsp dried parsley (or 1/2 cup finely diced celery for green color and crunch)",
+    "1 1/2 tsp dried mixed herbs (such as dried basil, oregano, or Italian seasoning)",
+    "1 1/2 tbsp Dijon mustard",
+    "3 tbsp drained and chopped capers",
+    "6 scallions, finely sliced (or 1/2 cup finely chopped yellow/red onion if avoiding scallions)",
+    "1 1/8 cups (1 cup + 2 tbsp) panko bread crumbs",
+    "6 to 9 tbsp olive oil (for brushing/cooking)",
+    "Mayonnaise (amount not specified), for tarragon mayo",
+    "1 tbsp dried tarragon, for tarragon mayo"
+  ],
+  "instructions": [
+    "Make the mayo (prep ahead): Mix the mayonnaise and 1 tbsp dried tarragon in a small bowl. Cover and refrigerate for at least 30 minutes so the dried tarragon rehydrates and infuses into the mayo.",
+    "Boil the potatoes: Place potato chunks in a pot with cold water and 1 1/2 tsp salt. Bring to a boil and simmer for 12–14 minutes until tender. Drain, return to the pot, coarsely mash, and set aside to cool slightly.",
+    "Poach the fish: In a wide skillet, layer onion slices, bay leaves, and 1/2 tsp dried thyme. Place the cod on top, sprinkle with 3/4 tsp salt and black pepper, and add water just to cover the fish. Cover, bring to a simmer, and cook for 2–3 minutes. Turn off the heat and leave covered for 5–6 minutes until opaque. Transfer fish to a plate, let cool, and gently flake with a fork.",
+    "Mix the patties: In a large bowl, whisk the 3 eggs. Stir in lemon zest, lemon juice, dried parsley (or diced celery), dried mixed herbs, Dijon mustard, capers, and scallions. Add the mashed potatoes and mix thoroughly. Gently fold in the flaked cod and panko bread crumbs.",
+    "Shape and chill (critical step for holding shape): Divide the mixture into 12 equal portions (roughly 3 inches wide and 1 inch thick). Place on a baking sheet, cover, and refrigerate for at least 1 hour so the patties firm up before cooking.",
+    "Broil: Preheat the broiler with a rack set 4 inches from the heat source. Line a baking sheet with foil and coat generously with olive oil. Place patties on the sheet, brush the tops with oil, and broil for 5–6 minutes until golden brown. Flip carefully, brush again with oil, and broil the other side for another 5–6 minutes. Serve hot with the tarragon mayo."
+  ],
+  "nutrition": {
+    "calories": "480 kcal",
+    "protein": "25g",
+    "fat": "31g",
+    "carbohydrates": "27g",
+    "fiber": "3g",
+    "sugar": "2g",
+    "sodium": "890mg"
+  },
+  "notes": "Makes 12 patties. Serving = 2 fish cakes + 2 tbsp tarragon mayo (6 servings). Estimated nutrition per serving; includes 16g monounsaturated fat. Mayonnaise amount was not specified in the source. Chill patties at least 1 hour before broiling.",
+  "createdAt": "2026-10-04T00:00:00.000Z",
+  "updatedAt": "2026-10-04T18:34:01.161Z"
+}
