@@ -1,0 +1,51 @@
+{
+  "slug": "red-lentil-curry",
+  "title": "Red Lentil Curry",
+  "image": "/api/images/public/rkalajian/pubrec/bb3df51b7a9677fe2a26cdad49e504257a3a177f578fab22b54eee7efc638ce4.png",
+  "tags": [
+    "dinner",
+    "lentils",
+    "vegan"
+  ],
+  "public": true,
+  "servings": "6",
+  "prepTime": "10m",
+  "cookTime": "25m",
+  "ingredients": [
+    "1 1/2 cups (300 g) red lentils (split or whole)",
+    "3 3/4 cups water (plus extra as needed)",
+    "3 to 4 1/2 tbsp oil, ghee, or butter",
+    "1 to 2 sprigs curry leaves (or 1–2 bay leaves)",
+    "4 1/2-inch cinnamon stick + 3/4 tsp cumin seeds (optional)",
+    "1 1/8 to 1 1/2 cups (1 1/2 medium) onion, finely chopped",
+    "1 to 2 green chilies (optional, chopped or slit)",
+    "2 5/8 cups (4 1/2 medium) tomatoes (peeled & chopped/pureed, or a 21 oz. can crushed tomatoes)",
+    "1 1/2 tsp granulated garlic",
+    "3/4 to 1 tsp ginger powder",
+    "1 1/2 tsp sea salt (adjust to taste)",
+    "3/4 tsp Kashmiri chili powder or paprika",
+    "1 1/2 tbsp mild curry powder",
+    "1 to 1 1/2 tsp garam masala",
+    "1/2 cup thick coconut milk, heavy cream, or whisked yogurt"
+  ],
+  "instructions": [
+    "Cook the red lentils: Rinse 1 1/2 cups red lentils thoroughly in a fine-mesh strainer or bowl until the water runs clear. Transfer to a pot with 3 3/4 cups water. Bring to a rolling boil over high heat, then turn down to medium. Cook until the lentils are tender, about 10 minutes. Skim off any froth if desired. Remove from heat and set aside.",
+    "Make the curry base: Heat 3 to 4 1/2 tbsp oil or ghee in a large pan over medium heat. Add whole spices (cinnamon stick and cumin seeds, if using), chopped onion, green chilies, and curry leaves. Sauté for about 8 minutes until the onions turn golden brown.",
+    "Bloom the dry spices: Lower the heat slightly and stir in the granulated garlic and ginger powder for 20–30 seconds to bloom without burning. Add the curry powder, garam masala, Kashmiri chili powder, and salt. Stir for 10 seconds.",
+    "Cook the tomatoes: Stir in the pureed/chopped tomatoes (plus a splash of water if using fresh tomatoes). Cover and cook over medium-low heat until the tomatoes soften and break down, 5–7 minutes.",
+    "Combine and simmer: Pour the cooked red lentils along with their cooking liquid into the tomato-spice base. Mix well. If the curry is too thick, add about 3/4 cup water to reach your desired consistency. Simmer gently for 2 to 3 minutes. Optionally, lightly mash some of the lentils against the side of the pan with the back of a spoon for a richer texture.",
+    "Finish and serve: Reduce heat to low and stir in 1/2 cup coconut milk or cream. Simmer for another 2 minutes until heated through. Taste and adjust salt or garam masala if needed. Serve hot over rice or flatbread."
+  ],
+  "nutrition": {
+    "calories": "354 kcal",
+    "protein": "15g",
+    "fat": "15g",
+    "carbohydrates": "41g",
+    "fiber": "5.3g",
+    "sugar": "6g",
+    "sodium": "655mg"
+  },
+  "notes": "Nutrition per serving (1/6th of recipe), curry only, without rice or flatbread. Trans fat, cholesterol and potassium are estimates.",
+  "createdAt": "2026-10-04T00:00:00.000Z",
+  "updatedAt": "2026-10-04T11:52:41.828Z"
+}
