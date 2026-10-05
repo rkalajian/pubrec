@@ -6,7 +6,9 @@
     "dinner",
     "pasta",
     "pumpkin",
-    "vegetarian"
+    "vegetarian",
+    "vegan",
+    "dairy-free"
   ],
   "public": true,
   "servings": "7",
@@ -17,23 +19,23 @@
     "3 1/2 cups pumpkin puree (approx. two 15 oz cans)",
     "2 medium-to-large yellow onions, finely diced",
     "14 cloves garlic, minced",
-    "7 tbsp olive oil or unsalted butter (just under 1/2 cup)",
+    "7 tbsp olive oil or plant butter (just under 1/2 cup)",
     "1 tsp rubbed sage (dried)",
     "1/2 tsp dried thyme",
     "1/2 tsp garlic powder (optional, to deepen savory garlic notes)",
     "7/8 tsp ground nutmeg (approx. 1 tsp)",
     "7/8 tsp red pepper flakes (optional, to taste)",
     "1 3/4 cups low-sodium vegetable broth",
-    "1 3/4 cups heavy cream (or full-fat coconut milk)",
-    "1 1/6 cups grated Parmesan cheese (or approx. 1 1/4 cups nutritional yeast)",
+    "1 3/4 cups full-fat coconut milk",
+    "1 1/6 cups grated vegan Parmesan (or approx. 1 1/4 cups nutritional yeast)",
     "1 3/4 tsp salt (plus more to taste)",
     "Freshly cracked black pepper"
   ],
   "instructions": [
     "Boil the pasta and reserve water: Bring a large pot of heavily salted water to a boil. Cook the chickpea pasta according to package directions, but remove it 1–2 minutes early so it stays al dente. Reserve 2 to 2 1/2 cups of starchy pasta water, then drain and set aside.",
-    "Sauté onion and garlic: Heat the butter or olive oil in a large Dutch oven or deep skillet over medium heat. Add the diced onion and cook for 4 to 5 minutes until soft and translucent. Add the minced garlic and red pepper flakes; cook for 1 minute until fragrant.",
-    "Build and spice the pumpkin sauce: Whisk in the pumpkin puree, vegetable broth, heavy cream, and all dried seasonings (rubbed sage, dried thyme, garlic powder, nutmeg, salt, black pepper). Bring to a low simmer for 4 to 5 minutes so the dried herbs hydrate and infuse into the warm sauce.",
-    "Emulsify and combine: Lower the heat to low and stir in the grated Parmesan cheese until completely melted. Add the cooked chickpea pasta directly to the sauce along with 1 cup of reserved pasta water.",
+    "Sauté onion and garlic: Heat the plant butter or olive oil in a large Dutch oven or deep skillet over medium heat. Add the diced onion and cook for 4 to 5 minutes until soft and translucent. Add the minced garlic and red pepper flakes; cook for 1 minute until fragrant.",
+    "Build and spice the pumpkin sauce: Whisk in the pumpkin puree, vegetable broth, coconut milk, and all dried seasonings (rubbed sage, dried thyme, garlic powder, nutmeg, salt, black pepper). Bring to a low simmer for 4 to 5 minutes so the dried herbs hydrate and infuse into the warm sauce.",
+    "Emulsify and combine: Lower the heat to low and stir in the grated vegan Parmesan until completely melted. Add the cooked chickpea pasta directly to the sauce along with 1 cup of reserved pasta water.",
     "Coat and serve: Toss continuously over low heat for 1 to 2 minutes, splashing in additional reserved pasta water as needed, until the sauce turns glossy, rich, and clings smoothly to every piece of pasta."
   ],
   "nutrition": {
@@ -45,7 +47,7 @@
     "sugar": "7g",
     "sodium": "80mg"
   },
-  "notes": "A serving is 2 cups (~600g)",
+  "notes": "Estimated nutrition per serving (1 of 12) was calculated for the original version with heavy cream and Parmesan; not recalculated for coconut milk and vegan Parmesan. Servings, prep time and cook time are estimates.",
   "createdAt": "2026-10-04T00:00:00.000Z",
   "updatedAt": "2026-10-04T17:59:22.854Z"
 }
