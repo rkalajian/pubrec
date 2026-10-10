@@ -1,0 +1,41 @@
+{
+  "slug": "basic-homemade-applesauce",
+  "title": "Basic Homemade Applesauce",
+  "image": "/api/images/public/rkalajian/pubrec/85a3640da7c07847a6968781d6bc02b350e4b6f6cd7ed67cfc7fbecba4f4e289.jpg",
+  "tags": [
+    "snack",
+    "dessert",
+    "vegan",
+    "dairy-free"
+  ],
+  "public": true,
+  "servings": "6",
+  "prepTime": "15m",
+  "cookTime": "20m",
+  "ingredients": [
+    "3 to 4 lbs apples (about 6 to 8 medium); mix sweet and tart, like McIntosh, Fuji, Gala or Honeycrisp with Granny Smith",
+    "1/2 cup water",
+    "1 tsp ground cinnamon",
+    "1/2 tsp vanilla extract",
+    "1 tbsp fresh lemon juice",
+    "Pinch of salt"
+  ],
+  "instructions": [
+    "Prep the apples: Peel, core, and chop the apples into roughly 1-inch chunks. Leaving peels on gives a pinker sauce, but the finished sauce must then go through a food mill or high-powered blender to remove skin fragments.",
+    "Simmer: In a large pot, combine the apple chunks, liquid, lemon juice, and a pinch of salt. Bring to a simmer over medium-high heat, then cover and reduce heat to low. Cook 15 to 20 minutes, stirring occasionally, until the apples are completely tender and easily mashed with a fork.",
+    "Mash or blend: Remove from heat. For chunky texture, mash the apples in the pot with a potato masher. For silky-smooth texture, use an immersion blender, food processor, or standard blender.",
+    "Season and finish: Stir in the cinnamon, vanilla extract, and sweetener to taste. Serve warm, or chill in the refrigerator before serving."
+  ],
+  "nutrition": {
+    "calories": "115 kcal",
+    "protein": "1g",
+    "fat": "0g",
+    "carbohydrates": "30g",
+    "fiber": "4g",
+    "sugar": "22g",
+    "sodium": "50mg"
+  },
+  "notes": "Serving = about 2/3 cup (recipe yields ~4 cups); nutrition is an estimate per serving, assuming peeled apples, water as the liquid and no added sweetener. Each tbsp of sugar adds ~8 kcal and ~2g sugar per serving.",
+  "createdAt": "2026-10-10T00:00:00.000Z",
+  "updatedAt": "2026-10-10T14:42:38.569Z"
+}
