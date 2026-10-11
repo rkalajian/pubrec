@@ -1,0 +1,49 @@
+{
+  "slug": "air-fryer-maple-chipotle-pork-chops",
+  "title": "Air Fryer Maple Chipotle Pork Chops",
+  "image": "/api/images/public/rkalajian/pubrec/b6a225352b7afcfe0d4186c3de4c3857c6d15bf3e5acd9ec63b85058cf628b86.jpg",
+  "tags": [
+    "dinner",
+    "pork",
+    "air-fryer"
+  ],
+  "public": true,
+  "servings": "6",
+  "prepTime": "15m",
+  "cookTime": "45m",
+  "ingredients": [
+    "Dry Rub: 3 tbsp chipotle chile powder",
+    "2 tbsp paprika (6 tsp)",
+    "1 tbsp garlic powder (3 tsp)",
+    "1 tbsp onion powder (3 tsp)",
+    "1 tbsp + 2 tsp table salt",
+    "1 1/2 tsp black pepper",
+    "6 (12-oz, 1-in.-thick) bone-in center-cut pork chops",
+    "3 tbsp vegetable oil",
+    "Maple Sauce: 6 tbsp pure maple syrup",
+    "3 tbsp adobo sauce (from a can of chipotle in adobo sauce)",
+    "3 tbsp apple cider vinegar",
+    "Thinly sliced scallions, for garnish"
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375°F for 5 minutes.",
+    "Make the dry rub: Stir together the chipotle chile powder, paprika, garlic powder, onion powder, salt and black pepper in a small bowl.",
+    "Coat the pork: Dry the pork chops thoroughly with paper towels and rub all sides evenly with the vegetable oil. Sprinkle the chops evenly with the chile powder mixture, rubbing until well coated.",
+    "Cook in batches: Work in batches of 2 to 3 chops, depending on basket size. Add chops to the air fryer basket and cook 8 minutes. Turn the chops and continue cooking until a digital thermometer inserted into the thickest portion registers 145°F, about 6 to 8 minutes more.",
+    "Rest: Remove the chops from the air fryer and rest on a cutting board 5 minutes. Repeat with remaining batches.",
+    "Make the maple sauce: While the pork rests, stir together the maple syrup, adobo sauce and apple cider vinegar in a small bowl.",
+    "Serve: Thinly slice the pork chops against the grain, drizzle with the maple sauce and sprinkle with scallions. Serve immediately."
+  ],
+  "nutrition": {
+    "calories": "520 kcal",
+    "protein": "48g",
+    "fat": "28g",
+    "carbohydrates": "18g",
+    "fiber": "2g",
+    "sugar": "12g",
+    "sodium": "1450mg"
+  },
+  "notes": "Serving = 1 chop. Nutrition is an approximate estimate per serving, based on 6 servings and 12-oz bone-in chops. Sodium is largely from the salt and dry rub; adjust to taste.",
+  "createdAt": "2026-10-11T00:00:00.000Z",
+  "updatedAt": "2026-10-11T13:10:10.898Z"
+}
