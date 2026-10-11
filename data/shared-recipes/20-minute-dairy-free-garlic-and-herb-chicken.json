@@ -1,0 +1,46 @@
+{
+  "slug": "20-minute-dairy-free-garlic-and-herb-chicken",
+  "title": "Garlic & Herb Chicken",
+  "image": "/api/images/public/rkalajian/pubrec/55c3fe6525b107743f124a6ec0a052e6a57d9a90f1b9cca3b34fb5e161c4d572.jpg",
+  "tags": [
+    "dinner",
+    "chicken",
+    "dairy-free",
+    "gluten-free"
+  ],
+  "public": true,
+  "servings": "6",
+  "prepTime": "10m",
+  "cookTime": "12m",
+  "ingredients": [
+    "2.25 lbs (36 oz) boneless, skinless chicken breasts, cut into bite-sized strips or tenderloins",
+    "1.5 tbsp extra virgin olive oil",
+    "4.5 tbsp dairy-free plant butter (e.g., Country Crock Plant Butter, Earth Balance, or Miyoko's)",
+    "1.5 tsp granulated garlic",
+    "1.5 tsp Italian seasoning",
+    "3/4 tsp smoked paprika",
+    "3/4 tsp salt",
+    "1/4 tsp black pepper",
+    "1.5 tbsp fresh lemon juice",
+    "3 tbsp fresh parsley, chopped (for garnish)"
+  ],
+  "instructions": [
+    "Season the chicken: Pat the chicken pieces thoroughly dry with paper towels. Season evenly with the granulated garlic, Italian seasoning, smoked paprika, salt and black pepper.",
+    "Sear the chicken: Heat the olive oil and 1.5 tbsp of the dairy-free butter in a large skillet over medium-high heat. Add chicken in a single layer (cook in two batches if necessary to avoid overcrowding). Sear 3 to 4 minutes per side until golden brown and cooked through (internal temperature 165°F / 74°C). Transfer cooked chicken to a plate.",
+    "Make the pan sauce: Reduce heat to medium. Add the remaining 3 tbsp dairy-free butter and the lemon juice to the warm skillet, scraping up any browned bits from the bottom of the pan.",
+    "Toss and serve: Return the chicken and any accumulated juices to the skillet. Toss continuously for 1 minute until well coated in the warm herb sauce.",
+    "Garnish: Remove from heat and sprinkle with fresh chopped parsley."
+  ],
+  "nutrition": {
+    "calories": "285 kcal",
+    "protein": "36g",
+    "fat": "14g",
+    "carbohydrates": "2g",
+    "fiber": "0.5g",
+    "sugar": "0.5g",
+    "sodium": "490mg"
+  },
+  "notes": "Serving = ~5.5 oz cooked chicken with sauce (1 of 6 equal servings). Nutrition is an estimate per serving using plant-based butter. Also provides 3.5 g saturated fat and 95 mg cholesterol.",
+  "createdAt": "2026-10-11T00:00:00.000Z",
+  "updatedAt": "2026-10-11T13:22:08.046Z"
+}
