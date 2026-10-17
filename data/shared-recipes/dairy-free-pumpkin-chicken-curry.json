@@ -1,0 +1,63 @@
+{
+  "slug": "dairy-free-pumpkin-chicken-curry",
+  "title": "Pumpkin Chicken Curry",
+  "image": "/api/images/public/rkalajian/pubrec/ce0cf266d1275a8f3efaafa19972ede275528abdda6125b17c775dd8170866a0.jpg",
+  "tags": [
+    "dinner",
+    "chicken",
+    "curry",
+    "pumpkin",
+    "dairy-free",
+    "gluten-free"
+  ],
+  "public": true,
+  "servings": "8",
+  "prepTime": "30m",
+  "cookTime": "25m",
+  "ingredients": [
+    "For the Chicken & Marinade:",
+    "3.5 lbs (approx. 1.6 kg) skinless boneless chicken breast, cut into bite-sized chunks",
+    "1/2 cup canned full-fat coconut milk (replaces yogurt)",
+    "2 tbsp vegetable oil",
+    "5 tsp curry powder",
+    "2 2/3 tsp Kashmiri chili powder (or regular mild chili powder)",
+    "1 1/3 tsp garlic powder",
+    "1 1/3 tsp onion powder",
+    "1 1/3 tsp fine sea salt",
+    "For the Pumpkin Curry Sauce:",
+    "2 cups (450 g) canned pumpkin puree",
+    "1 to 1 1/2 cups canned full-fat coconut milk (divided for cooking & finishing)",
+    "1 1/2 cups water or chicken broth",
+    "6 tbsp (3/8 cup) tomato paste",
+    "2 tbsp vegetable oil",
+    "1 1/2 tsp onion powder (replaces fresh onion)",
+    "1 1/2 tsp garlic powder (replaces fresh garlic)",
+    "1 1/2 tsp ground ginger (replaces fresh ginger)",
+    "3 tsp garam masala",
+    "2 tsp curry powder",
+    "1 tsp Kashmiri chili powder (optional, for extra heat)",
+    "1 tsp fine sea salt (or to taste)",
+    "2 tsp sugar or maple syrup (optional, to balance flavor)",
+    "1-2 tbsp fresh lime juice (recommended to replicate yogurt's acidity)"
+  ],
+  "instructions": [
+    "Marinate the chicken: In a large bowl, whisk together 1/2 cup coconut milk, 2 tbsp oil, 5 tsp curry powder, 2 2/3 tsp chili powder, 1 1/3 tsp garlic powder, 1 1/3 tsp onion powder, and 1 1/3 tsp salt. Add chicken chunks, coat well, cover, and refrigerate for 20-30 minutes.",
+    "Bloom the spices: Heat 2 tbsp vegetable oil in a large pot over low-medium heat. Add the dry spice powders for the sauce (onion powder, garlic powder, ground ginger, garam masala, curry powder, and optional chili powder). Stir constantly for 30-60 seconds until fragrant (watch closely so the dry spices don't burn).",
+    "Build the sauce: Immediately stir in the pumpkin puree, tomato paste, water (or broth), and 1 tsp salt. Whisk until smooth, cover, and let simmer gently on low heat for 8-10 minutes. Stir in the sugar/maple syrup and 1 cup of coconut milk. Remove from heat briefly.",
+    "Sear the chicken: Heat a large skillet over medium-high heat. In 2-3 batches (to avoid overcrowding), sear the marinated chicken chunks for 2-3 minutes until lightly browned on the outside.",
+    "Simmer together: Transfer the seared chicken into the warm pumpkin curry sauce. Cover and simmer on low heat for 4-5 minutes until the chicken is cooked through.",
+    "Finish: Turn off the heat and stir in the remaining coconut milk and fresh lime juice. Adjust salt to taste and serve hot over rice or naan."
+  ],
+  "nutrition": {
+    "calories": "380 kcal",
+    "protein": "44g",
+    "fat": "18g",
+    "carbohydrates": "10g",
+    "fiber": "3g",
+    "sugar": "4.5g",
+    "sodium": "820mg"
+  },
+  "notes": "Nutrition per serving (1 of 8), dish only without cooked rice. Also provides 10 g saturated fat and 105 mg cholesterol.",
+  "createdAt": "2026-10-17T00:00:00.000Z",
+  "updatedAt": "2026-10-17T11:56:45.827Z"
+}
