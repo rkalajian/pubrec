@@ -1,0 +1,46 @@
+{
+  "slug": "air-fryer-naan",
+  "title": "Air Fryer Naan",
+  "image": "/api/images/public/rkalajian/pubrec/02229d5d78c397fd7c5f32ac2480e25a5516ce1e5d581b032c057833e5ed4c27.jpg",
+  "tags": [
+    "side",
+    "bread",
+    "naan",
+    "air-fryer",
+    "vegetarian",
+    "no-yeast"
+  ],
+  "public": true,
+  "servings": "6",
+  "prepTime": "40m",
+  "cookTime": "10m",
+  "ingredients": [
+    "2 cups all-purpose flour (or a 1:1 mix of all-purpose and whole wheat)",
+    "1/2 cup plain yogurt (Greek or regular)",
+    "3/4 cup water (added gradually)",
+    "1 tsp baking powder",
+    "1/4 tsp salt",
+    "Oil, for brushing the basket or naan",
+    "Optional toppings: minced garlic, melted butter or ghee, and chopped cilantro"
+  ],
+  "instructions": [
+    "Mix the dough: In a bowl, combine the flour, baking powder, and salt. Stir in the yogurt and gradually add water until a soft dough forms.",
+    "Knead and rest: Knead the dough on a floured surface for 3 to 5 minutes until smooth. Cover and let it rest for 20 to 30 minutes.",
+    "Shape the naan: Divide the dough into 4 to 6 equal pieces. Roll or stretch each piece into an oval or teardrop shape (about 1/4-inch thick).",
+    "Preheat the air fryer: Preheat to 380°F to 400°F (190°C-200°C) for 3 to 5 minutes.",
+    "Air fry: Lightly brush the air fryer basket or the naan with oil. Place the naan inside and cook for 3 to 5 minutes, flipping halfway through, until puffed and lightly charred on the edges.",
+    "Top (optional): Brush with melted butter or ghee and sprinkle with minced garlic and chopped cilantro."
+  ],
+  "nutrition": {
+    "calories": "165 kcal",
+    "protein": "5g",
+    "fat": "1g",
+    "carbohydrates": "33g",
+    "fiber": "1g",
+    "sugar": "1g",
+    "sodium": "180mg"
+  },
+  "notes": "Makes 4 to 6 naan; nutrition is an estimate per naan (1 of 6) using all-purpose flour and regular yogurt, without optional toppings or oil for brushing.",
+  "createdAt": "2026-10-18T00:00:00.000Z",
+  "updatedAt": "2026-10-18T12:43:46.875Z"
+}
