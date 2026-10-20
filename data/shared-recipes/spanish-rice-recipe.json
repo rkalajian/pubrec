@@ -2,7 +2,7 @@
   "slug": "spanish-rice-recipe",
   "title": "Spanish Rice Recipe",
   "sourceUrl": "https://lilluna.com/food-tutorial-spanish-rice/#wprm-recipe-container-98784",
-  "image": "https://lilluna.com/wp-content/uploads/2017/10/spanish-rice-resize-5.jpg",
+  "image": "/api/images/public/rkalajian/pubrec/bb520fca669ca50e800b96692eafaaec31c36aa9d11a9dea284e4c6b3eda26d6.jpg",
   "tags": [
     "rice",
     "side",
@@ -32,14 +32,15 @@
     "Stir and cover the pan. Let simmer for 30-40 minutes, stirring occasionally, or until all is cooked and there is no liquid left. Fluff before serving and top with cilantro if desired."
   ],
   "nutrition": {
-    "calories": "90 kcal",
-    "protein": "1 g",
-    "fat": "4 g",
-    "carbohydrates": "13 g",
-    "fiber": "1 g",
-    "sugar": "1 g",
-    "sodium": "447 mg"
+    "calories": "255 kcal",
+    "protein": "4.6 g",
+    "fat": "4.3 g",
+    "carbohydrates": "48 g",
+    "fiber": "1.3 g",
+    "sugar": "1.2 g",
+    "sodium": "605 mg"
   },
+  "notes": "Serving size - 1cup (200g)",
   "createdAt": "2026-07-26T13:16:16.791Z",
-  "updatedAt": "2026-08-10T18:53:34.266Z"
+  "updatedAt": "2026-10-20T14:08:22.011Z"
 }
